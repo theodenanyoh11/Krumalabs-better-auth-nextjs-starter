@@ -6,6 +6,10 @@
 
 A production-ready Next.js starter template with authentication, user management, and admin features built with [Better Auth](https://github.com/theodenanyoh/better-auth).
 
+## Inspiration
+
+This starter template is inspired by the excellent tutorial series by [Aditya Singh](https://www.youtube.com/@AdityaSinghCodes) on building a Next.js authentication system. You can find the original tutorial and code at [better-auth-nextjs](https://github.com/adityasinghcodes/better-auth-nextjs/tree/main).
+
 ## Features
 
 - 🔐 Authentication with email/password and social providers
